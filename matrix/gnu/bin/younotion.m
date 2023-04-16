@@ -1,4 +1,4 @@
-#!/usr/bin/env wolframscript
+#!/usr/bin/wolframscript -cloud -code
 
 (* 
 # Archimedes' postulate about lever of the center of gravity is about
@@ -11,4 +11,4 @@
 # gamma C using its initial interface to archaeology in discovery result
 # in numerical constructions of its gravitational base to discover its
 # scope of its hypothesis. *)
-Range[227]
+Range[227] <- FileType
